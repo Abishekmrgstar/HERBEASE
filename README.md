@@ -46,7 +46,7 @@ Herbease employs cutting-edge technology to accurately identify medicinal plants
 ![AFTER UPLOADING](https://ik.imagekit.io/kckns3vde/UPLOADER.jpg?updatedAt=1710038194712)
 ## RESULT
 
-![RESULT](https://example.com/screenshot3.png)
+![RESULT](https://ik.imagekit.io/kckns3vde/result.jpg?updatedAt=1710047033307)
 
 
 
